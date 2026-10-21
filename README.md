@@ -1,2 +1,2 @@
-# tutorials
+# Tutorials
 Tutorials: Linux &amp; Android
